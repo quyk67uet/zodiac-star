@@ -23,5 +23,14 @@ Khám phá vẻ đẹp và ý nghĩa của 12 chòm sao trong cung hoàng đạo
 
 ![](./zodiac2.jpg)
 
+## 🗂️ Nguồn dữ liệu
+
+Dữ liệu tọa độ các ngôi sao được lấy từ kho mã nguồn mở:
+
+🔗 [ofrohn/d3-celestial](https://github.com/ofrohn/d3-celestial)
+
+Kho này cung cấp các thông tin thiên văn học như vị trí ngôi sao, chòm sao, đường hoàng đạo,... và được sử dụng để vẽ lại các chòm sao trong dự án này.
+
+
 ---
 
