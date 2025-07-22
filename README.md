@@ -21,7 +21,7 @@ Khám phá vẻ đẹp và ý nghĩa của 12 chòm sao trong cung hoàng đạo
 
 ![12 Chòm Sao Hoàng Đạo](./zodiac.jpg)
 
-(./zodiac2.jpg)
+![](./zodiac2.jpg)
 
 ---
 
